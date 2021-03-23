@@ -1,0 +1,30 @@
+{
+    "theme": "theme1",
+    "template": "template1",
+    "slides": {
+        "slide_1": {
+            "id": 1,
+            "type": "jpg",
+            "src": "src/images/slides-images/staticSlide1.jpg"
+        },
+    
+        "slide_2": {
+            "id": 2,
+            "type": "jpg",
+            "src": "src/images/slides-images/staticSlide2.jpg"
+        },
+    
+        "slide_3": {
+            "id": 3,
+            "type": "html",
+            "src": "src/images/css_animation/index.html"
+        },
+    
+        "slide_4": {
+            "id": 4,
+            "type": "html",
+            "src": "src/images/html_canvas/Slide_HTML-Canvas.html"
+        }
+    }
+    
+}
